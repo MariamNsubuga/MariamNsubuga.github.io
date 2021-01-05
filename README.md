@@ -1,2 +1,2 @@
 # MariamNsubuga.github.io
-clone of google home page
+hosted clone of google home page
